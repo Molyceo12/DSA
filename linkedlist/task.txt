@@ -1,0 +1,4 @@
+1.find count of how many words that can be written mistakenly by repeating specific kwy
+2.to insert a value in linked list and insert it in order
+3.to join two sorted linkedlist and return third sorted list
+4.to sort linked list 
